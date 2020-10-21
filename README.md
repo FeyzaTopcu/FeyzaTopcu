@@ -1,6 +1,7 @@
 
-<img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="90px">
 <h1 align="center">Hi 👋, I'm Feyza Topcu</h1>
+
+<img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="90px">
 <h3 align="center">I continue to improve myself by conducting studies in data science and deep learning fields. I am making the image processing software of unmanned aircraft. Apart from that, I am trying to improve myself at Golang.</h3>
 
 - 🔭 I’m currently working on **Deep Learning and Unmanned Aerial Vehicle Software**
